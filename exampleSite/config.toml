@@ -31,7 +31,7 @@ url = "research"
 [[Languages.en.menu.main]]
 name = "Luciano"
 url = "About"
-weight = "0"
+weight = "5"
 [[Languages.en.menu.main]]
 name = "About"
 url = "about"
