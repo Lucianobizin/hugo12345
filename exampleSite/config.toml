@@ -29,6 +29,10 @@ url = "scholarship"
 name = "research"
 url = "research"
 [[Languages.en.menu.main]]
+name = "Luciano"
+url = "About"
+weight = ""
+[[Languages.en.menu.main]]
 name = "About"
 url = "about"
 weight = 1
