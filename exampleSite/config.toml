@@ -1,7 +1,7 @@
 baseURL = "http://GB4567.org"
 disableLanguages = []
 disqusShortname = "educenter"
-paginate = "6"
+paginate = "7"
 summaryLength = "10"
 theme = "educenter-hugo"
 themesDir = "../.."
